@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**PHANTOM0122/PHANTOM0122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## About me
 - Republic of Korea Army (2019.07 ~ 2020.01)
 - KyungHee University, Dept. of Software Convergence, Future Vehicle & Robot Track (2019.03. ~ Recent)

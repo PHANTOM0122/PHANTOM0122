@@ -26,5 +26,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-a877f2?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bluehyena_/)](https://www.instagram.com/bluehyena_/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bluehyena123@khu.ac.kr)](mailto:bluehyena123@khu.ac.kr)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluehyena&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PHANTOM0122&show_icons=true&theme=radical)
 

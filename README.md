@@ -5,7 +5,7 @@
 - Inha University, Dept. of Mechanical Engineering (2017.03 ~ 2018.02)
 - Sewha highschool, Seoul, Republic of Korea (2013.03 ~ 2016.03)
 
-## I'm currently working & studying on
+## I'm currently working & studying 
 - 2021 Korea Embedded Software Contest, Autonomous RC vehicles
 - ADAS(Advanced Driver Assistance Systems)
 - Data structure && Algorithms in C++

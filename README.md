@@ -22,4 +22,4 @@
 - Golf
 - Big fan of Doosan Bears baseball team, KBO!
 
-[![PHANTOM0122's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)

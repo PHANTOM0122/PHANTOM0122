@@ -11,13 +11,13 @@
 - Data structure && Algorithms in C++
 
 ## Projects
-- KHAR : Automous RC Car using OpenCV with Python3
-- BLANC : 
+- KHAR : Automous RC Car using OpenCV with Raspberry-pi 3
+- BLANC : Social networking service app for travelers around the world
 
 ## Socials 
 - Instagram profile -> https://www.instagram.com/h.joony_vlog/
 - SWTUBE(SoftWare Youtube) club: Chief of photograph team (2018.06 ~ Recent)
 
-
 ## Hobby
 - Golf
+- Big fan of Doosan Bears baseball team, KBO!

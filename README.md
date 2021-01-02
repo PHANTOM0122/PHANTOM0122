@@ -20,11 +20,10 @@
 
 ## Socials 
 - Instagram profile -> [![Instagram Badge](https://img.shields.io/badge/-Instagram-a877f2?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/h.joony_vlog/)](https://www.instagram.com/h.joony_vlog/)
+- SWTUBE(SoftWare Youtube) club: Chief of photograph team (2018.06 ~ Recent)  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/소융튜브/featured)](https://www.youtube.com/c/소융튜브/featured)
 
-- SWTUBE(SoftWare Youtube) club: Chief of photograph team (2018.06 ~ Recent) 
-
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bluehyena123@khu.ac.kr)](mailto:bluehyena123@khu.ac.kr)
+## Contacts
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wilko97@khu.ac.kr)](mailto:wilko97@khu.ac.kr)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PHANTOM0122&show_icons=true&theme=radical)
 

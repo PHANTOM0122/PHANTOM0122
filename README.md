@@ -6,6 +6,7 @@
 - Sewha highschool, Seoul, Republic of Korea (2013.03 ~ 2016.03)
 
 ## I'm currently working & studying 
+- EEG motor imagery control 
 - 2021 Korea Embedded Software Contest, Autonomous RC vehicles
 - ADAS(Advanced Driver Assistance Systems)
 - Data structure && Algorithms in C++

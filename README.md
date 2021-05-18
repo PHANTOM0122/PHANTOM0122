@@ -1,4 +1,5 @@
 ## About me
+- AIR LAB, Dept. of Software Convergence, KYUNGHEE University
 - Republic of Korea Army (2019.07 ~ 2021.01)
 - KyungHee University, Dept. of Software Convergence, Future Vehicle & Robot Track (2019.03. ~ Recent)
 - KyungHee University, Dept. of Software Convergence (2018.03. ~ Recent)

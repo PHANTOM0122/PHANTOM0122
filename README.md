@@ -7,15 +7,15 @@
 - Sewha highschool, Seoul, Republic of Korea (2013.03 ~ 2016.03)
 
 ## I'm currently working & studying 
-- Computer Vision & Machine Learning
+- Computer Vision & Deep Learning
 - EEG motor imagery control 
-- 2021 Korea Embedded Software Contest, Autonomous RC vehicles
-- ADAS(Advanced Driver Assistance Systems)
-- Data structure && Algorithms in C++
+- Machine Learning
+
 
 ## Projects
 - KHAR : Automous RC Car using OpenCV with Raspberry-pi 3
 - BLANC : Social networking service app for travelers around the world
+- EEG Adversary Attack: With Deep Learning models to classify EEG signals, Adversary Attack with manipulated signals  
 
 ## Hobby
 - Golf

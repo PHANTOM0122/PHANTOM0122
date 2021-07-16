@@ -8,7 +8,7 @@
 
 ## I'm currently working & studying 
 - Computer Vision & Deep Learning
-- EEG motor imagery control 
+- EEG classification & motor imagery control 
 - Machine Learning
 
 

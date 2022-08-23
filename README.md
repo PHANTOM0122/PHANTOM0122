@@ -7,7 +7,7 @@
 - Deep Learning for Autonomous Vehicles 
 
 ## Projects
-- [ **KITTI360 Tutorial** ](https://velog.io/@wilko97) (https://github.com/PHANTOM0122/KITTI360_Tutorial)
+- [ **KITTI360 Tutorial** ](https://github.com/PHANTOM0122/KITTI360_Tutorial)
 - [ **Turtlebot Manipulation with Optical Flow in Gazebo Simulation** ](https://github.com/PHANTOM0122/ROS_Gazebo_Simulator_with_Opticalflow)
 - [ **3D Reconstruction using Structure From Motion** ](https://github.com/PHANTOM0122/3D_Reconstruction)
 - [ **Image Style Transfer** ](https://github.com/Hyper-Vision-DeepLearning/Style-Transfer)

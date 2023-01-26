@@ -1,5 +1,6 @@
 ## About me
-- AIR LAB, Dept. of Software Convergence, KYUNGHEE University (2021.03 ~ Present)
+- HY-Vision LAB, Dept. of Artificial Intelligence, HANYANG University (2023.02 ~ )
+- AIR LAB, Dept. of Software Convergence, KYUNGHEE University (2021.03 ~ 2023.01)
 - KyungHee University, Dept. of Software Convergence, Future Vehicle & Robot Track (2018.03. ~ Present)
 
 ## I'm currently working & studying 

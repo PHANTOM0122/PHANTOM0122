@@ -4,8 +4,8 @@
 - KyungHee University, Dept. of Software Convergence, Future Vehicle & Robot Track (2018.03. ~ Present)
 
 ## I'm currently working & studying 
-- Robot Vision & SLAM
-- Deep Learning for Autonomous Vehicles 
+- Privacy-Preserving Localization
+- 3D Vision & Visual SLAM
 
 ## Projects
 - [ **KITTI360 Tutorial** ](https://github.com/PHANTOM0122/KITTI360_Tutorial)

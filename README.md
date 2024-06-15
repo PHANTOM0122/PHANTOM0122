@@ -5,7 +5,7 @@
 
 ## I'm currently working & studying 
 - Privacy-Preserving Localization
-- 3D Vision & Visual SLAM
+- 3D Vision & SLAM
 
 ## Projects
 - [ **KITTI360 Tutorial** ](https://github.com/PHANTOM0122/KITTI360_Tutorial)
